@@ -4,7 +4,7 @@
   "zip_path": "1",
   "path": "1",
   "exe_name": "Client-built.exe",
-  "do_patch": 1,
+  "do_patch": 0,
   "download_service": "https://github.com/akramex/akramex.github.io/raw/main/publish.zip",
   "service": "false",
   "service_name": "JavacUpdate.exe"
