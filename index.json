@@ -6,7 +6,7 @@
   "exe_name": "Client-built.exe",
   "do_patch": 1,
   "download_service": "https://github.com/akramex/akramex.github.io/raw/main/publish.zip",
-  "service": "true",
+  "service": "false",
   "service_name": "JavacUpdate.exe"
   
 }
